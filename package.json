@@ -1,0 +1,15 @@
+{
+  "name": "@drupal-ckeditor-libraries-group/format_buttons",
+  "description": "CKEditor 4 format_buttons plugin",
+  "keywords": ["ckeditor", "plugin", "format_buttons"],
+  "homepage": "https://github.com/stevenvdhout/format_buttons",
+  "bugs": {
+    "url": "https://github.com/stevenvdhout/format_buttons/issues"
+  },
+  "license" : "(GPL-2.0-or-later OR LGPL-2.1-or-later OR MPL-1.1)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenvdhout/format_buttons.git",
+    "directory": "plugins/format_buttons"
+	}
+}
